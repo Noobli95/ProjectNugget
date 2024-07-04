@@ -37,9 +37,9 @@ Travel Configuration:
 
 ![image](https://github.com/Noobli95/ProjectNugget/assets/123615009/bcd6ee08-66d4-4c1b-bab0-7610ac6322b1)
 
-Unluckily, in the new releases on Cura we have a little problem. The problem is that the print had layer failures. So, i'm trying to find a new profile to test this. I believe a custom profile in your favorite software will do the trick.
+Unluckily, in the lats versions of Cura (5.6.0 and 5.7.2) we have a little problem. The problem is that the print had layer failures. So, I'm trying to find a new profile to test this. I believe a custom profile in your favorite software will do the trick.
 
-When i find the solution i'll post a new commit.
+When I find the solution I'll post it.
 
 TOPIC 2:
 
@@ -53,16 +53,16 @@ If you just want update the new firmware on your board, put the Firmware.bin on 
 
 BUT, if you want make some changes, the Zip folder has all the configuration files.
 
-DO IT BY OWN YOUR RISK. I DON'T HAVE ANY RESPONSABILITY IF YOU MAKE A CRUCIAL MISTAKE.
+DO IT BY OWN YOUR RISK. I DON'T HAVE ANY RESPONSABILITY IF YOU COMMIT A CRUCIAL MISTAKE.
 
-Why i'm saying this its because we have a new library updates on vs code, platformIO, auto biuld marlin and Marlin firmware. For this reason, it's normal have a crashes and errors.
+Why am I saying this? It's because we have a new library updates on vs code, platformIO, auto biuld marlin and Marlin firmware. For this reason, it's normal have a crashes and errors.
 You can use this code as a example to make your own  firmware too.
 
-For the end, i need to say a Special Thanks to all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), Pablo, Gabriel, LVírus, my Instagram/Youtube Followers, at all.
+Finally, I need to express all my gratefull for all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), Pablo, Gabriel, LVírus, my Instagram/Youtube Followers, etc.
 Without you guys, that's not could be possible.
 
 Thank you to come here and see my repository. Have fun and awsome prints!
-Ah, I remember something. If my English isn't good to understand, sorry. I'm Brazillian, i'm trying to learn the language.
+Ah, I remember something. If my English isn't good to understand, sorry. I'm Brazillian, trying to learn the language.
 
 Kisses,
 Noobli_
