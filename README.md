@@ -37,7 +37,7 @@ Travel Configuration:
 
 ![image](https://github.com/Noobli95/ProjectNugget/assets/123615009/bcd6ee08-66d4-4c1b-bab0-7610ac6322b1)
 
-Unluckily, in the lats versions of Cura (5.6.0 and 5.7.2) we have a little problem. The problem is that the print had layer failures. So, I'm trying to find a new profile to test this. I believe a custom profile in your favorite software will do the trick.
+Unluckily, in the latest versions of Cura (5.6.0 and 5.7.2) we have a little problem. The problem is that the print had layer failures. So, I'm trying to find a new profile to test this. I believe a custom profile in your favorite software will do the trick. And I don't know when the issue will be fixed.
 
 When I find the solution I'll post it.
 
@@ -49,20 +49,20 @@ Firmware.bin
 
 Marlin for Wanhao Duplicator i3.zip folder
 
-If you just want update the new firmware on your board, put the Firmware.bin on your sd card, connect in the 3d printer and turn it on. After a few seconds, the firmware has updated on your board.
+If you just want to update the new firmware on your board, put the Firmware.bin on your sd card, connect in the 3d printer and turn it on. After a few seconds, the firmware will be updated on your board.
 
 BUT, if you want make some changes, the Zip folder has all the configuration files.
 
 DO IT BY OWN YOUR RISK. I DON'T HAVE ANY RESPONSABILITY IF YOU COMMIT A CRUCIAL MISTAKE.
 
-Why am I saying this? It's because we have a new library updates on vs code, platformIO, auto biuld marlin and Marlin firmware. For this reason, it's normal have a crashes and errors.
-You can use this code as a example to make your own  firmware too.
+Why am I saying this? It's because we have a new library updates on vs code, platformIO, auto build marlin and Marlin firmware. For this reason, it's normal to have a few crashes and errors.
+You can use this code as a example to make your own firmware too.
 
-Finally, I need to express all my gratefull for all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), Pablo, Gabriel, LVírus, my Instagram/Youtube Followers, etc.
-Without you guys, that's not could be possible.
+Finally, I need to express all my gratitude for all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), Pablo, Gabriel, LVírus, my Instagram/Youtube Followers, etc.
+Without you guys, none of this would be possible.
 
-Thank you to come here and see my repository. Have fun and awsome prints!
-Ah, I remember something. If my English isn't good to understand, sorry. I'm Brazillian, trying to learn the language.
+Thank you for comming here and see my repository. Have fun and awesome prints!
+Oh, I remembered something. If my English isn't good to understand, sorry. I'm Brazillian, trying to learn the language.
 
 Kisses,
 Noobli_
