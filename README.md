@@ -58,7 +58,7 @@ DO IT BY OWN YOUR RISK. I DON'T HAVE ANY RESPONSABILITY IF YOU MAKE A CRUCIAL MI
 Why i'm saying this its because we have a new library updates on vs code, platformIO, auto biuld marlin and Marlin firmware. For this reason, it's normal have a crashes and errors.
 You can use this code as a example to make your own  firmware too.
 
-For the end, i need to say a Special Thanks to all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), Pablo, Gabriel, my Instagram/Youtube Followers, at all.
+For the end, i need to say a Special Thanks to all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), Pablo, Gabriel, LVírus, my Instagram/Youtube Followers, at all.
 Without you guys, that's not could be possible.
 
 Thank you to come here and see my repository. Have fun and awsome prints!
