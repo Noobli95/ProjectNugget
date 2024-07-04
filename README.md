@@ -37,7 +37,7 @@ Travel Configuration:
 
 ![image](https://github.com/Noobli95/ProjectNugget/assets/123615009/bcd6ee08-66d4-4c1b-bab0-7610ac6322b1)
 
-Unluckily, in the new releases on Cura we have a little problem. The problem is that the print has layer failures. So, i'm trying to find a new profile to test this. I believe a custom profile in your favorite software will do the trick.
+Unluckily, in the new releases on Cura we have a little problem. The problem is that the print had layer failures. So, i'm trying to find a new profile to test this. I believe a custom profile in your favorite software will do the trick.
 
 When i find the solution i'll post a new commit.
 
