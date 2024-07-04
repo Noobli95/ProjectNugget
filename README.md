@@ -46,17 +46,19 @@ TOPIC 2:
 We have 2 files here.
 
 Firmware.bin
+
 Marlin for Wanhao Duplicator i3.zip folder
 
 If you just want update the new firmware on your board, put the Firmware.bin on your sd card, connect in the 3d printer and turn it on. After a few seconds, the firmware has updated on your board.
 
 BUT, if you want make some changes, the Zip folder has all the configuration files.
+
 DO IT BY OWN YOUR RISK. I DON'T HAVE ANY RESPONSABILITY IF YOU MAKE A CRUCIAL MISTAKE.
 
 Why i'm saying this its because we have a new library updates on vs code, platformIO, auto biuld marlin and Marlin firmware. For this reason, it's normal have a crashes and errors.
 You can use this code as a example to make your own  firmware too.
 
-For the end, i need to say a Special Thanks to all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), my Instagram/Youtube Followers, at all.
+For the end, i need to say a Special Thanks to all my friends who helped me with a good words or money. Razgriz, Otávio, Fábio Pinheiro, Ana Clara Aravecchia (she's the best!), Pablo, Gabriel, my Instagram/Youtube Followers, at all.
 Without you guys, that's not could be possible.
 
 Thank you to come here and see my repository. Have fun and awsome prints!
